@@ -1,6 +1,0 @@
----
-title: Moongoat
----
-Why?
-
-Testies...
