@@ -7,5 +7,9 @@ h1 {
 }
 p {
   color: chartreuse;
-  text-align: center;
+  text-align: left;
+}
+.bodyDiv {
+  align-content: center;
+  max-width: 600;
 }
