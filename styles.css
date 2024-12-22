@@ -10,6 +10,6 @@ p {
   text-align: left;
 }
 .bodyDiv {
-  align-content: center;
   max-width: 600px;
+  margin: auto;
 }
